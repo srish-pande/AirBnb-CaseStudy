@@ -1,4 +1,4 @@
-# AirBnb-CaseStudy
+# AirBnb-StoryTelling
 
 INTRODUCTION
 
